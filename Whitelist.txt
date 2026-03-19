@@ -1,4 +1,4 @@
-@@||.qq.com^
+@@||qq.com^
 @@||obus-cn.dc.heytapmobi.com^
-@@||.zijieapi.com^
-@@||.snssdk.com^
+@@||zijieapi.com^
+@@||snssdk.com^
