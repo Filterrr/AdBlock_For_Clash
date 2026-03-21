@@ -1,4 +1,4 @@
-name: Run_AdBlock_Rule_Generators  # 合并后的工作流名称
+name: AdBlock_Rules_Generator_and_Converter  # 合并后的工作流名称
 
 on:
   schedule:
